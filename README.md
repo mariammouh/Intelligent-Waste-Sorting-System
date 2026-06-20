@@ -156,9 +156,9 @@ The waste classification module is based on a **ResNet (Residual Neural Network)
 
 Developed during the **Enactus 2026 Competition** by:
 
-* Mariam Mouh
 * Basma El Kadri
 * Ghita Benlahcen
+* Mariam Mouh
 * Najat Aderdour
 * Wijdane Abouzaid
 
